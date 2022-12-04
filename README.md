@@ -1,1 +1,3 @@
-# apple_support_url.github.io
+# Milu Information
+
+Milu, yaşam alanlarını daha iyi hale getirmeyi amaçlayan, kullanıcıların çevresindeki sorunları kolay bir şekilde paylaşabileceği ve diğer kullanıcıların paylaştığı sorunları oylayıp gündeme getirebileceği bir platformdur. Bu sayede kurumların hizmet kaynaklarını önceliklendirerek gündeme gelen sorunları çözmesini sağlar. Ayrıca platformda paylaşılan sorunları “Kurumsal sosyal sorumluluk projeleri” haline getirerek özel şirketlere hizmet olarak sunar. Bu projeleri gerçekleştiren şirketlerin edindiği sonuçları Milu’da paylaşarak kullanıcıların gözü önüne sunmasını sağlar. Bu projelere gönüllüleri platform üzerinden sağlayarak bilinçli bireyler ile şirketleri ortak noktada buluşturur. En nihayetinde bireyler, kurumlar, şirketler ve STK’lar ile birlikte dünyayı daha iyi hale getirmeyi amaçlar.
